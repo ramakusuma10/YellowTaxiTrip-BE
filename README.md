@@ -23,7 +23,7 @@ Ikuti langkah-langkah berikut untuk mengatur dan menjalankan proyek ini secara l
 Clone repositori ini ke komputer lokal Anda menggunakan git:
 
 ```bash
-git clone https://github.com/aaridhon19/Yellow_Taxi_Trip_BE.git
+git clone https://github.com/ramakusuma10/YellowTaxiTrip-BE.git
 cd repository-name
 ```
 
